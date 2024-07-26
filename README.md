@@ -1,8 +1,4 @@
-## CHAT APP using MERN stack and SOCKET.IO 🤠
-
-* Visit [https://demourl.none/](https://react-chat-vars.herokuapp.com/)
-
----
+## CHAT APP using MERN stack and SOCKET.IO
 
 ### Features
 
